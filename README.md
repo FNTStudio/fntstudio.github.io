@@ -1,7 +1,7 @@
 # FNT Studio Official website
 ## English
-We are a professional live team
-This website is open source, welcome together development and design.
+We are a team of YouTuber.
+This website is open source, welcome to development and design together.
 
 Official website: [https://fntstudio.github.io/](https://fntstudio.github.io/)
 
